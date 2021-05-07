@@ -22,7 +22,7 @@ pod 'Ulti'
 
 ## Author
 
-zhiyao92, zhi-yao_tan@astro.com.my
+Kelvin Tan, kelvin.vins@gmail.com
 
 ## License
 

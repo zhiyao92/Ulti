@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Ulti
 //
-//  Created by zhiyao92 on 05/07/2021.
-//  Copyright (c) 2021 zhiyao92. All rights reserved.
+//  Created by Kelvin Tan on 05/07/2021.
+//  Copyright (c) 2021 Kelvin Tan. All rights reserved.
 //
 
 import UIKit

@@ -1,0 +1,6 @@
+framework module Ulti {
+  umbrella header "Ulti-umbrella.h"
+
+  export *
+  module * { export * }
+}
