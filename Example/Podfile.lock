@@ -1,5 +1,5 @@
 PODS:
-  - Ulti (0.1.0)
+  - Ulti (0.0.1)
 
 DEPENDENCIES:
   - Ulti (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  Ulti: ebd09d3062887147305374e1095c6f4eba7af546
+  Ulti: e21e8343d0fb31fbc5f59d515581a8ce49f80dad
 
 PODFILE CHECKSUM: e3b332b7d8b2df909638bd32bc4e389f43a6d111
 
